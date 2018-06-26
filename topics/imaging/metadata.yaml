@@ -1,0 +1,72 @@
+---
+name: "imaging"
+type: "learn imaging analysis"
+title: "3D cell image analysis"
+summary: "using galaxy to recreate 3D images fromsingle layers and analyze"
+requirements:
+  -
+    title: "Galaxy introduction"
+    type: "internal"
+    link: "/introduction/"
+
+material:
+  -
+    title: "Introduction to cell imaging"
+    type: "introduction"
+    name: "introduction"
+    slides: "no"
+    contributors:
+      - John Hutchinson
+      - Radhika Khetani
+  -
+    title: "tutorial1"
+    type: "tutorial"
+    name: "tutorial1"
+    zenodo_link: ""
+    galaxy_tour: no
+    hands_on: yes
+    slides: no
+    workflows: no
+    questions:
+      - ""
+      - ""
+    objectives:
+      - ""
+      - ""
+      - ""
+    time_estimation: "3h"
+    key_points:
+      - ""
+      - ""
+      - ""
+      - "..."
+    contributors:
+      - John Hutchinson
+  -
+    title: "tutorial2"
+    type: "tutorial"
+    name: "tutorial2"
+    zenodo_link: ""
+    galaxy_tour: no
+    hands_on: yes
+    slides: no
+    workflows: no
+    questions:
+      - ""
+      - ""
+    objectives:
+      - ""
+      - ""
+      - ""
+    time_estimation: "3h"
+    key_points:
+      - ""
+      - ""
+      - ""
+      - "..."
+    contributors:
+      - Radhika Khetani
+
+maintainers:
+  - HBC Training Team
+  - Galaxy Training Network
